@@ -1,12 +1,13 @@
-## Hi there 👋
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Check out our products!
+### Kora
+* https://builtbybit.com/kora
+* https://zerodev.ca/shop/kora
+### ProductPanel
+* https://builtbybit.com/product
+* https://zerodev.ca/shop/productpanel
+### Advanced Automod
+* https://builtbybit.com/moderation
+* https://zerodev.ca/shop/advanced-automod
+### Emoji Locker
+* https://builtbybit.com/emoji
+* https://zerodev.ca/shop/emoji-locker
