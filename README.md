@@ -1,7 +1,3 @@
-# Zero Development
-### GitHub Organization
-
-
 ## Check out our products!
 ### Kora
 * https://builtbybit.com/kora
